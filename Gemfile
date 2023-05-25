@@ -23,6 +23,7 @@ gem "turbo-rails"
 
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
+gem "cloudinary"
 gem "simple_form"
 gem "sassc-rails" # Uncomment this l
 
